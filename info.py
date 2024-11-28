@@ -28,7 +28,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5
 
 
 # Admins, Channels & Users
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002337753659'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002324418733'))
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1481322134').split()]
 
 # This Is File Channel Where You Upload Your File Then Bot Automatically Save It In Database 
