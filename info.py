@@ -89,8 +89,8 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'bitget_srilankan') # owner usern
 
 # Clone Information : If Clone Mode Is True Then Bot Clone Other Bots.
 CLONE_MODE = bool(environ.get('CLONE_MODE', True)) # Set True or False
-CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://pawanivimasha8:20030928@autofilter.jdtmx.mongodb.net/?retryWrites=true&w=majority&appName=AutoFilter") # Necessary If clone mode is true
-PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'FilmJoyHub1') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
+CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://pissuhadenawa15:20030928@cloners.vtvwi.mongodb.net/?retryWrites=true&w=majority&appName=cloners") # Necessary If clone mode is true
+PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'FilmJoyHub13') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 
 # Links
